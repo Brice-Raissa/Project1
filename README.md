@@ -8,3 +8,4 @@ $ git push ssh://example.com/project.git mybranch:theirbranch
 When remote and local branch are both named "test":
 $ git push ssh://example.com/project.git test
 Shortcut version for a frequently used remote repository:
+# it is now included on git hub
